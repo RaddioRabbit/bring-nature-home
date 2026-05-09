@@ -172,4 +172,6 @@ Ray ray = new Ray(
 
 ## License
 
-This project is licensed under the MIT License. Before public release or external collaboration, also add a `LICENSE` file and clarify the licensing scope for third-party assets, models, and SDKs.
+This project's code is licensed under the MIT License. See [LICENSE](LICENSE) for the full license text.
+
+Note: the MIT License applies only to code and documentation provided by this repository's authors. Unity, Meta XR/Oculus SDK, Interaction SDK, TextMeshPro, and any third-party models, assets, or trademarks remain governed by their own licenses and terms.
